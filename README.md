@@ -176,7 +176,7 @@ A generated panel object looks like:
   "id": "34oaulzgq7jw",
   "number": 1,
   "title": "...",
-
+}
 ---
 
 ## AI providers
