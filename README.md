@@ -177,7 +177,7 @@ A generated panel object looks like:
   "number": 1,
   "title": "...",
 }
----
+```
 
 ## AI providers
 
